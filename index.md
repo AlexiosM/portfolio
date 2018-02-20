@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## A simple portfolio
 
-You can use the [editor on GitHub](https://github.com/AlexiosM/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A motivated and enthusiastic Computer and Informatics Engineer with 5 years graduate experience (BEng) from [CEID](https://www.ceid.upatras.gr), and 2 years graduate experience (MSc) in Integrated Hardware and Software Systems.
+Strong understanding of design methodologies and design issues, having worked in software
+development, digital design analysis and synthesis and simulation environments. Seeking a
+development role with scope for technical challenge, career progression, and possibly customer
+interaction.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Teaching assistant as a postgraduate student
+Computer Engineering & Informatics Department, University of Patras
+02/13 – 05/13 Computer Architecture Laboratory
+02/13 – 05/13 Logic Design Laboratory
+11/12 – 02/13 Microelectronics Lab
+Computer Engineering and Informatics Department
+Role involved:
+ - Checking the programs written by the students, or the implemented circuits.
+ - Running the programs, correcting them and showing alternatives
+ - Checking the correct function of the circuits
 
-### Markdown
+## 01/12-03/12 Internship
+[Knowledge Broadband Services S.A.](http://www.knowledge.gr)
+Have worked in various aspects in the company. Role involved:
+ - Assistance in improving a website using JBOSS
+ - Contact with costumers to promote the company’s products about digi-mobile
+ - Preparing the required documents for the application to digi-mobile
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+September 2014 – Now Software Engineer
+[Nokia Greece S.A.](https://www.nokia.com/)
+Have worked in 
+ - IP/Optical Networks (domains such as OAM, In Service Upgrade in S/P Gateways), 
+ - Mobile Networks (Licensing, CI, Openstack Labs)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexiosM/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## PERSONAL/INTERESTS
+Studying for the CCNA Routing and Switching examination.
