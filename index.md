@@ -17,18 +17,19 @@ Role involved:
  - Running the programs, correcting them and showing alternatives
  - Checking the correct function of the circuits
 
-## 01/12-03/12 Internship
+## September 2014 – Now Software Engineer
+[Nokia Greece S.A.](https://www.nokia.com/)
+Have worked in 
+ - IP/Optical Networks (domains such as OAM, In Service Upgrade in S/P Gateways), 
+ - Mobile Networks (Licensing, CI, Openstack Labs)
+
+## January 12- March 12 Internship
 [Knowledge Broadband Services S.A.](http://www.knowledge.gr)
 Have worked in various aspects in the company. Role involved:
  - Assistance in improving a website using JBOSS
  - Contact with costumers to promote the company’s products about digi-mobile
  - Preparing the required documents for the application to digi-mobile
 
-September 2014 – Now Software Engineer
-[Nokia Greece S.A.](https://www.nokia.com/)
-Have worked in 
- - IP/Optical Networks (domains such as OAM, In Service Upgrade in S/P Gateways), 
- - Mobile Networks (Licensing, CI, Openstack Labs)
 
 
 ## PERSONAL/INTERESTS
