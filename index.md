@@ -6,6 +6,20 @@ development, digital design analysis and synthesis and simulation environments. 
 development role with scope for technical challenge, career progression, and possibly customer
 interaction.
 
+
+## September 2014 – Now: Software Engineer
+[Nokia Greece S.A.](https://www.nokia.com/)
+Have worked in 
+ - IP/Optical Networks (domains such as OAM, In Service Upgrade in S/P Gateways), 
+ - Mobile Networks (Licensing, CI, Openstack Labs)
+
+## January 12 - March 12: Internship
+[Knowledge Broadband Services S.A.](http://www.knowledge.gr)
+Have worked in various aspects in the company. Role involved:
+ - Assistance in improving a website using JBOSS
+ - Contact with costumers to promote the company’s products about digi-mobile
+ - Preparing the required documents for the application to digi-mobile
+
 ## Teaching assistant as a postgraduate student
 Computer Engineering & Informatics Department, University of Patras
 02/13 – 05/13 Computer Architecture Laboratory
@@ -16,20 +30,6 @@ Role involved:
  - Checking the programs written by the students, or the implemented circuits.
  - Running the programs, correcting them and showing alternatives
  - Checking the correct function of the circuits
-
-## September 2014 – Now Software Engineer
-[Nokia Greece S.A.](https://www.nokia.com/)
-Have worked in 
- - IP/Optical Networks (domains such as OAM, In Service Upgrade in S/P Gateways), 
- - Mobile Networks (Licensing, CI, Openstack Labs)
-
-## January 12- March 12 Internship
-[Knowledge Broadband Services S.A.](http://www.knowledge.gr)
-Have worked in various aspects in the company. Role involved:
- - Assistance in improving a website using JBOSS
- - Contact with costumers to promote the company’s products about digi-mobile
- - Preparing the required documents for the application to digi-mobile
-
 
 
 ## PERSONAL/INTERESTS
