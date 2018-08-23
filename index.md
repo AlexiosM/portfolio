@@ -32,4 +32,4 @@ Have worked in
 
 
 ## PERSONAL/INTERESTS
-Studying for the CCNA Routing and Switching examination.
+Studying for the CCNA Routing and Switching examination
